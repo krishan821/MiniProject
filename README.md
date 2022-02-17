@@ -3,6 +3,9 @@ Patent Search & Analysis Web-Application aims to provide services to innovators 
 Keywords: Keywords: Patent, Innovations, Transformations, Implementations, Technology, Intellectual Property, Database management Systems, Data Handling & Analysis, Searching & Sorting Algorithms
 
 ![Rectangle (2)](https://user-images.githubusercontent.com/75636356/154555669-b9abd570-16d8-440c-a574-a4f76a158ed7.png)
+
+## Link of website:
+https://krishan821.github.io/MiniProject/
 ## Use Case Diagram
 
 ![WhatsApp Image 2022-02-17 at 9 48 09 AM](https://user-images.githubusercontent.com/75636356/154554826-0328d822-28d0-4a32-8bff-6b45eeec32da.jpeg)
